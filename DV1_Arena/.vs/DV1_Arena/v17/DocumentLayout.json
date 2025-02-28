@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samfu\\Documents\\GitHub\\MoveFerroneCh9_V02\\DV1_Arena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4580A418-57D6-5EEE-88E3-1C9B8A7C073C}|Assembly-CSharp.csproj|c:\\users\\samfu\\documents\\github\\moveferronech9_v02\\dv1_arena\\assets\\scripts\\bulletbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4580A418-57D6-5EEE-88E3-1C9B8A7C073C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4580A418-57D6-5EEE-88E3-1C9B8A7C073C}|Assembly-CSharp.csproj|C:\\Users\\samfu\\Documents\\GitHub\\MoveFerroneCh9_V02\\DV1_Arena\\assets\\scripts\\gamebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4580A418-57D6-5EEE-88E3-1C9B8A7C073C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4580A418-57D6-5EEE-88E3-1C9B8A7C073C}|Assembly-CSharp.csproj|C:\\Users\\samfu\\Documents\\GitHub\\MoveFerroneCh9_V02\\DV1_Arena\\assets\\scripts\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4580A418-57D6-5EEE-88E3-1C9B8A7C073C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4580A418-57D6-5EEE-88E3-1C9B8A7C073C}|Assembly-CSharp.csproj|C:\\Users\\samfu\\Documents\\GitHub\\MoveFerroneCh9_V02\\DV1_Arena\\assets\\scripts\\playerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4580A418-57D6-5EEE-88E3-1C9B8A7C073C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BulletBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\samfu\\Documents\\GitHub\\MoveFerroneCh9_V02\\DV1_Arena\\Assets\\Scripts\\BulletBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletBehavior.cs",
+              "ToolTip": "C:\\Users\\samfu\\Documents\\GitHub\\MoveFerroneCh9_V02\\DV1_Arena\\Assets\\Scripts\\BulletBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T02:28:56.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\samfu\\Documents\\GitHub\\MoveFerroneCh9_V02\\DV1_Arena\\Assets\\Scripts\\GameBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameBehavior.cs",
+              "ToolTip": "C:\\Users\\samfu\\Documents\\GitHub\\MoveFerroneCh9_V02\\DV1_Arena\\Assets\\Scripts\\GameBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameBehavior.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T02:17:11.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\samfu\\Documents\\GitHub\\MoveFerroneCh9_V02\\DV1_Arena\\Assets\\Scripts\\PlayerBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerBehavior.cs",
+              "ToolTip": "C:\\Users\\samfu\\Documents\\GitHub\\MoveFerroneCh9_V02\\DV1_Arena\\Assets\\Scripts\\PlayerBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerBehavior.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwIoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T02:06:54.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\samfu\\Documents\\GitHub\\MoveFerroneCh9_V02\\DV1_Arena\\Assets\\Scripts\\EnemyBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBehavior.cs",
+              "ToolTip": "C:\\Users\\samfu\\Documents\\GitHub\\MoveFerroneCh9_V02\\DV1_Arena\\Assets\\Scripts\\EnemyBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBehavior.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwFkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:51:52.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
