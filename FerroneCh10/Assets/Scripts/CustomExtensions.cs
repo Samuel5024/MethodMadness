@@ -7,6 +7,6 @@ public static class StringExtensions
 {
     public static void FancyDebug(this string str)
     {
-        Debug.LogFormat("This string conatins {0} characters.", str.Length);
+        Debug.LogFormat("This string contains {0} characters.", str.Length);
     }
 }
